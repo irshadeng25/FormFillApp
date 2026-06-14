@@ -22,3 +22,4 @@ pipeline {
                 echo "----------- unit test completed ----------"
             }
         }
+}
